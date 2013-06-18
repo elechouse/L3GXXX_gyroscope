@@ -1,0 +1,7 @@
+L3GXXX_gyroscope
+================
+
+<p>For L3G4200D and L3GD20</p>
+<h3> Product pages</h3>
+<a href="http://www.elechouse.com/elechouse/index.php?main_page=product_info&cPath=152_160&products_id=2215">L3GD20 3-axis Gyroscope Module</a> <br>
+<a href="http://www.elechouse.com/elechouse/index.php?main_page=product_info&cPath=152_160&products_id=2234">LSM303DLHC+L3GD20 9DOF sensor module</a>
